@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDeDiseñoPolizasLogistica", "CapaDeDiseñoPolizasLogistica\CapaDeDiseñoPolizasLogistica.csproj", "{236B6F6D-7345-4361-AF8F-FDA3F8B2305D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDeDatosPolizasLogistica", "CapaDeDatosPolizasLogistica\CapaDeDatosPolizasLogistica.csproj", "{3DC56AB4-B73F-4FE5-8BA9-825846B88034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{236B6F6D-7345-4361-AF8F-FDA3F8B2305D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236B6F6D-7345-4361-AF8F-FDA3F8B2305D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236B6F6D-7345-4361-AF8F-FDA3F8B2305D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236B6F6D-7345-4361-AF8F-FDA3F8B2305D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC56AB4-B73F-4FE5-8BA9-825846B88034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC56AB4-B73F-4FE5-8BA9-825846B88034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC56AB4-B73F-4FE5-8BA9-825846B88034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC56AB4-B73F-4FE5-8BA9-825846B88034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
